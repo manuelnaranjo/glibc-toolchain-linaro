@@ -1,3 +1,8 @@
+2016-05-24  Adhemerval Zanella  <adhemerval.zanella@linaro.org>
+
+	* sysdeps/aarch64/nptl/tls.h (struct tcbhead_t): Add __private_ss
+	field.
+
 2016-05-24  Joseph Myers  <joseph@codesourcery.com>
 
 	[BZ #15479]
